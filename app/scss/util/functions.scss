@@ -1,0 +1,5 @@
+//Source: https://css-tricks.com/snippets/sass/px-to-em-functions/
+//The function rem transforms pixels to rems, one rem equals 16 px
+@function rem($pixels, $context:16){
+    @return($pixels/$context)*1rem;
+}

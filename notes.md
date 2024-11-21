@@ -4,7 +4,7 @@ Light/Dark mode toggle -- takes system pref by default, but can override w/toggl
 
 -What HTML markup to use (accesible) https://scottaohara.github.io/a11y_styled_form_controls/
 
-Use fieldset, legend, radio inputs
+Use fieldset, legend, radio input
 
 -Switching between light/dark mode via JS and prefers-color-scheme
 media query 
